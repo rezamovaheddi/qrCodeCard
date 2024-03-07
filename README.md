@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+reza movahedi
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
